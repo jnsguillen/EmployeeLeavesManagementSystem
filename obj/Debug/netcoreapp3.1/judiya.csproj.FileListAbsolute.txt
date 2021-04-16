@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\judiya\bin\Debug\netcoreapp3.1\judiya.exe
+C:\Users\HP\Desktop\judiya\bin\Debug\netcoreapp3.1\judiya.deps.json
+C:\Users\HP\Desktop\judiya\bin\Debug\netcoreapp3.1\judiya.runtimeconfig.json
+C:\Users\HP\Desktop\judiya\bin\Debug\netcoreapp3.1\judiya.runtimeconfig.dev.json
+C:\Users\HP\Desktop\judiya\bin\Debug\netcoreapp3.1\judiya.dll
+C:\Users\HP\Desktop\judiya\bin\Debug\netcoreapp3.1\judiya.pdb
+C:\Users\HP\Desktop\judiya\obj\Debug\netcoreapp3.1\judiya.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\judiya\obj\Debug\netcoreapp3.1\judiya.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\judiya\obj\Debug\netcoreapp3.1\judiya.AssemblyInfo.cs
+C:\Users\HP\Desktop\judiya\obj\Debug\netcoreapp3.1\judiya.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\judiya\obj\Debug\netcoreapp3.1\judiya.dll
+C:\Users\HP\Desktop\judiya\obj\Debug\netcoreapp3.1\judiya.pdb
+C:\Users\HP\Desktop\judiya\obj\Debug\netcoreapp3.1\judiya.genruntimeconfig.cache
