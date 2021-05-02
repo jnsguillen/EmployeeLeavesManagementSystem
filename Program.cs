@@ -91,7 +91,7 @@ namespace myproject
 				{
 					Guillen();
 				}
-			else if (name2.Equals("guillen, judea nicole s.", StringComparison.InvariantCultureIgnoreCase))
+			else if (name2.Equals("navarro elton john s.", StringComparison.InvariantCultureIgnoreCase))
 			{
 				Navarro();
 			}
